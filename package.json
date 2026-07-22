@@ -1,6 +1,6 @@
 {
   "name": "cors-proxy-local",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Local development CORS proxy with an lcp-compatible CLI.",
   "repository": {
     "type": "git",
